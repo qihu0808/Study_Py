@@ -1,0 +1,13 @@
+
+###复制内容到这里，不触发敏感关键字的情况下可以上传成功
+print ("Content-type:text/html")
+print ()
+print ('<html>')
+print ('<head>')
+print ('<meta charset="utf-8">')
+print ('<title>Hello World-CGI</title>')
+print ('</head>')
+print ('<body>')
+print ('<h2>Hello world!-runoob CGI</h2>')
+print ('</body>')
+print ('</html>')
